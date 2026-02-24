@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835613987152",
+    "project_id": "pdr-app-9eed8",
+    "storage_bucket": "pdr-app-9eed8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835613987152:android:a9612fdf065d1c5700dc55",
+        "android_client_info": {
+          "package_name": "com.company.PDRApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAAWcEzbjZmMyfsfEY6gKInumrQ-8_nqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
